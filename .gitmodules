@@ -1,0 +1,3 @@
+[submodule "nbv_cpp"]
+	path = nbv_cpp
+	url = git@github.com:UTNuclearRobotics/nbv_cpp.git
